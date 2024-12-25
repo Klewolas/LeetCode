@@ -3,10 +3,12 @@ using System.Linq;
 
 namespace LeetCode
 {
-    internal class PlusOneQ
+    public class PlusOneQ
     {
-        public static void Main(string[] args)
+        public void TestCases()
         {
+            Helper.TestSummary(GetType().Name);
+            
             var answer = PlusOne(new[] { 9,9,9,9,9,9,9,9 });
             
             foreach (var i in answer)
@@ -15,7 +17,7 @@ namespace LeetCode
             }
         }
 
-        private static int[] PlusOne(int[] digits) {
+        private int[] PlusOne(int[] digits) {
             for (int i = digits.Length - 1; i >= 0; i--)
             {
                 if (digits[i] == 9) digits[i] = 0;
