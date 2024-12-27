@@ -3,11 +3,11 @@ using System.Linq;
 
 namespace LeetCode
 {
-    public class RemoveElementQ
+    public class RemoveElementQ : LeetQ
     {
-        public void TestCases()
+        public override void TestCases()
         {
-            Helper.TestSummary(GetType().Name);
+            base.TestCases();
 
             int[] nums = new[] { 3, 2, 2, 3 };
             var result = RemoveElement(nums, 3);

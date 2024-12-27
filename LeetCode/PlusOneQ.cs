@@ -3,11 +3,11 @@ using System.Linq;
 
 namespace LeetCode
 {
-    public class PlusOneQ
+    public class PlusOneQ : LeetQ
     {
-        public void TestCases()
+        public override void TestCases()
         {
-            Helper.TestSummary(GetType().Name);
+            base.TestCases();
             
             var answer = PlusOne(new[] { 9,9,9,9,9,9,9,9 });
             

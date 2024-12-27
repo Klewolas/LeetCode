@@ -2,11 +2,11 @@
 
 namespace LeetCode
 {
-    public class SameTreeQ
+    public class SameTreeQ : LeetQ
     {
-        public void TestCases()
+        public override void TestCases()
         {
-            Helper.TestSummary(GetType().Name);
+            base.TestCases();
 
             var testCase1 = IsSameTree(new TreeNode(1, new TreeNode(2), new TreeNode(3)),
                 new TreeNode(1, new TreeNode(2), new TreeNode(3)));
