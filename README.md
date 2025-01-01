@@ -9,3 +9,4 @@ C# solutions for listed problems;
 - 🟡2807. Insert Greaters Common Divisors in Linked List
 - 🟢83. Remove Duplicates from Sorted List
 - 🟢3402. Minimum Operations to Make Columns Strictly Increasing
+- 🟢231. Power of Two
