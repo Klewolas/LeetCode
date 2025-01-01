@@ -23,5 +23,23 @@ namespace LeetCode
             s += "]";
             return s;
         }
+        
+        public static string ToString(int[][] nums)
+        {
+            string s = "[";
+            for (var i = 0; i < nums.Length; i++)
+            {
+                s += "[";
+                for (var j = 0; j < nums[i].Length; j++)
+                {
+                    s += nums[i][j].ToString();
+                    if (j < nums[i].Length - 1)
+                        s += ",";
+                }
+                s += "]";
+            }
+            s += "]";
+            return s;
+        }
     }
 }
