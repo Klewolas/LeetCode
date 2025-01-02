@@ -53,6 +53,7 @@
         <Compile Include="RemoveElementQ.cs" />
         <Compile Include="RemoveDuplicatesSortedListQ.cs" />
         <Compile Include="SameTreeQ.cs" />
+        <Compile Include="SearchInBinarySearchTreeQ.cs" />
         <Compile Include="TreeNode.cs" />
         <Compile Include="ValidPalindromeQ.cs" />
     </ItemGroup>

@@ -11,3 +11,4 @@ C# solutions for listed problems;
 - 🟢3402. Minimum Operations to Make Columns Strictly Increasing
 - 🟢231. Power of Two
 - 🟢876. Middle of the Linked List
+- 🟢700. Search in a Binary Search Tree
