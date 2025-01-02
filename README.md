@@ -10,3 +10,4 @@ C# solutions for listed problems;
 - 🟢83. Remove Duplicates from Sorted List
 - 🟢3402. Minimum Operations to Make Columns Strictly Increasing
 - 🟢231. Power of Two
+- 🟢876. Middle of the Linked List

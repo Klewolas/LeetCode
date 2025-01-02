@@ -45,6 +45,7 @@
         <Compile Include="InsertGCDLinkedList.cs" />
         <Compile Include="LeetQ.cs" />
         <Compile Include="ListNode.cs" />
+        <Compile Include="MiddleOfTheLinkedListQ.cs" />
         <Compile Include="MinimumOperationsStrictlyIncreasingQ.cs" />
         <Compile Include="PlusOneQ.cs" />
         <Compile Include="PowerOfTwoQ.cs" />
