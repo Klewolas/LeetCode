@@ -12,3 +12,4 @@ C# solutions for listed problems;
 - 🟢231. Power of Two
 - 🟢876. Middle of the Linked List
 - 🟢700. Search in a Binary Search Tree
+- 🟢206. Reverse Linked List
