@@ -13,3 +13,4 @@ C# solutions for listed problems;
 - 🟢876. Middle of the Linked List
 - 🟢700. Search in a Binary Search Tree
 - 🟢206. Reverse Linked List
+- 🟢144. Binary Tree Preorder Traversal

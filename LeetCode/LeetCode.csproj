@@ -40,6 +40,7 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="BinaryTreePreorderTraversalQ.cs" />
         <Compile Include="Helper.cs" />
         <Compile Include="App.cs" />
         <Compile Include="InsertGCDLinkedList.cs" />
