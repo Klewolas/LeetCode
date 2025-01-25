@@ -14,3 +14,4 @@ C# solutions for listed problems;
 - 🟢700. Search in a Binary Search Tree
 - 🟢206. Reverse Linked List
 - 🟢144. Binary Tree Preorder Traversal
+- 🟢326. Power of Three

@@ -49,6 +49,7 @@
         <Compile Include="MiddleOfTheLinkedListQ.cs" />
         <Compile Include="MinimumOperationsStrictlyIncreasingQ.cs" />
         <Compile Include="PlusOneQ.cs" />
+        <Compile Include="PowerOfThreeQ.cs" />
         <Compile Include="PowerOfTwoQ.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
         <Compile Include="RemoveElementQ.cs" />
