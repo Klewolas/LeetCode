@@ -16,3 +16,4 @@ C# solutions for listed problems;
 - 🟢144. Binary Tree Preorder Traversal
 - 🟢326. Power of Three
 - 🟢485. Max Consecutive Ones
+- 🟡164. Maximum Gap
