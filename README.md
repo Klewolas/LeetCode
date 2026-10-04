@@ -21,3 +21,4 @@ C# solutions for listed problems;
 - 🟢121. Best Time to Buy and Sell Stock
 - 🟢141. Linked List Cycle
 - 🟢283. Move Zeroes
+- 🟡200. Number of Islands

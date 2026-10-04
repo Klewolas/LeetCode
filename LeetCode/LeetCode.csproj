@@ -54,6 +54,7 @@
         <Compile Include="MiddleOfTheLinkedListQ.cs" />
         <Compile Include="MinimumOperationsStrictlyIncreasingQ.cs" />
         <Compile Include="MoveZeroesQ.cs" />
+        <Compile Include="NumIslandsQ.cs" />
         <Compile Include="PlusOneQ.cs" />
         <Compile Include="PowerOfThreeQ.cs" />
         <Compile Include="PowerOfTwoQ.cs" />
