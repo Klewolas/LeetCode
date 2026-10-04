@@ -47,6 +47,7 @@
         <Compile Include="App.cs" />
         <Compile Include="InsertGCDLinkedList.cs" />
         <Compile Include="LeetQ.cs" />
+        <Compile Include="LinkedListCycle.cs" />
         <Compile Include="ListNode.cs" />
         <Compile Include="MaxConsecutiveOnesQ.cs" />
         <Compile Include="MaximumGapQ.cs" />

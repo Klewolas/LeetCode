@@ -19,3 +19,4 @@ C# solutions for listed problems;
 - 🟡164. Maximum Gap
 - 🟢217. Contains Duplicate
 - 🟢121. Best Time to Buy and Sell Stock
+- 🟢141. Linked List Cycle

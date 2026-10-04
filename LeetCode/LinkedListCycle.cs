@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace LeetCode
+{
+    public class LinkedListCycle : LeetQ
+    {
+        public bool HasCycle(ListNode head)
+        {
+            if (head == null) return false;
+            
+            while (head.next != null)
+            {
+                if (head.val == Int32.MaxValue) return true;
+
+                head.val = Int32.MaxValue;
+                head = head.next;
+            }
+
+            return false;
+        }
+    }
+}
