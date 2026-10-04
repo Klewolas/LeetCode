@@ -18,3 +18,4 @@ C# solutions for listed problems;
 - 🟢485. Max Consecutive Ones
 - 🟡164. Maximum Gap
 - 🟢217. Contains Duplicate
+- 🟢121. Best Time to Buy and Sell Stock
