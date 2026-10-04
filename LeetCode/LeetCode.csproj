@@ -41,6 +41,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="BinaryTreePreorderTraversalQ.cs" />
+        <Compile Include="ContainsDuplicateQ.cs" />
         <Compile Include="Helper.cs" />
         <Compile Include="App.cs" />
         <Compile Include="InsertGCDLinkedList.cs" />
